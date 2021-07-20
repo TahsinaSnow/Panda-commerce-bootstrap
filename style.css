@@ -1,0 +1,41 @@
+/* slider-background */
+.panda-background{
+    background-color: #fceae8;
+
+}
+
+/* catagories */
+.catagories img{
+    width: 100px;
+}
+
+.watch-background{
+    background-color: salmon;
+    border-radius: 10px;
+}
+
+.bag-background{
+    background-color: violet;
+    border-radius: 10px;
+}
+
+.shoes-background{
+    background-color: navy;
+    border-radius: 10px;
+}
+/* button */
+.panda-button{
+    color: snow;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    padding: 9px 25px;
+    border-radius: 8px;
+    border: none;
+}
+/* shoes section */
+.shoes{
+    border-radius: 10px;
+}
+
+.backpack{
+    border-radius: 10px;
+}
